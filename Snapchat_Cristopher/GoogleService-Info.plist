@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87538030725-tpilbtgbh2e90cbidpmilso456ligabh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87538030725-tpilbtgbh2e90cbidpmilso456ligabh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQqCEOlf_VGHCRqiz69WV4yQpJLsRnBJ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87538030725</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tecsup.Snapchat-Cristopher</string>
+	<key>PROJECT_ID</key>
+	<string>snatchat-e37b1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snatchat-e37b1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87538030725:ios:761253da91e8552c</string>
+	<key>DATABASE_URL</key>
+	<string>https://snatchat-e37b1.firebaseio.com</string>
+</dict>
+</plist>
